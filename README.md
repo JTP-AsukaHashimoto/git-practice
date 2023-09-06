@@ -1,3 +1,4 @@
 ﻿# git-practice
 このリポジトリはGit動画講座用です．
-mainで更新（pull時のコンフリクト用）
+mainで更新（pull時のコンフリクト用
+stashの練習）
